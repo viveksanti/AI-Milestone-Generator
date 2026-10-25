@@ -5,9 +5,6 @@ export const metadata: Metadata = {
   title: "AI Milestone Generator — Tomorrow University",
   description:
     "Staff tool: generate, review, and save learning milestones for challenges using AI.",
-  icons: {
-    icon: "/tou-logo.svg",
-  },
 };
 
 export default function RootLayout({
